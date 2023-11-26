@@ -25,7 +25,7 @@ The project relied on Indian startup funding data scraped from multiple sources:
 - Forex_python - For currency conversions
 
 ## Key Findings
-- 2019 witnessed peak startup funding of $38.6B 
+- 2020 witnessed peak startup funding of $38.6B 
 - Retail sector received maximum collective funding  
 - Bangalore hosted 30% of startups analyzed 
 - Startup stage correlates to funds received
